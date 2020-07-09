@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import soundfile from "./assets/ring.mp3";
 
 const defaultState = {
   breakLength: 5,
@@ -170,7 +171,7 @@ class App extends React.Component {
           </button>
           <audio
             id="beep"
-            src="https://www.soundjay.com/phone/sounds/cell-phone-vibrate-1.mp3" 
+            src={soundfile} 
             />
         </div>
       </div>
