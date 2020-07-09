@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-pomo-clock/static/css/main.262200a1.chunk.css",
-    "main.js": "/react-pomo-clock/static/js/main.38359ab3.chunk.js",
-    "main.js.map": "/react-pomo-clock/static/js/main.38359ab3.chunk.js.map",
+    "main.js": "/react-pomo-clock/static/js/main.2a3a7cc9.chunk.js",
+    "main.js.map": "/react-pomo-clock/static/js/main.2a3a7cc9.chunk.js.map",
     "runtime-main.js": "/react-pomo-clock/static/js/runtime-main.5b89a259.js",
     "runtime-main.js.map": "/react-pomo-clock/static/js/runtime-main.5b89a259.js.map",
     "static/js/2.b76f76d6.chunk.js": "/react-pomo-clock/static/js/2.b76f76d6.chunk.js",
     "static/js/2.b76f76d6.chunk.js.map": "/react-pomo-clock/static/js/2.b76f76d6.chunk.js.map",
     "index.html": "/react-pomo-clock/index.html",
-    "precache-manifest.28a810be1378d9a631be8fbc4d52908c.js": "/react-pomo-clock/precache-manifest.28a810be1378d9a631be8fbc4d52908c.js",
+    "precache-manifest.ab14952f6b447345a478beb31b70354f.js": "/react-pomo-clock/precache-manifest.ab14952f6b447345a478beb31b70354f.js",
     "service-worker.js": "/react-pomo-clock/service-worker.js",
     "static/css/main.262200a1.chunk.css.map": "/react-pomo-clock/static/css/main.262200a1.chunk.css.map",
     "static/js/2.b76f76d6.chunk.js.LICENSE.txt": "/react-pomo-clock/static/js/2.b76f76d6.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.5b89a259.js",
     "static/js/2.b76f76d6.chunk.js",
     "static/css/main.262200a1.chunk.css",
-    "static/js/main.38359ab3.chunk.js"
+    "static/js/main.2a3a7cc9.chunk.js"
   ]
 }
