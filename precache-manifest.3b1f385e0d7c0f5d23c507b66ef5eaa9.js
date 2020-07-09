@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c43ff396a50edb38c7dbb046ff90c82a",
+    "revision": "d49039bd4e6f7e45e70c794405110fa8",
     "url": "/react-pomo-clock/index.html"
   },
   {
