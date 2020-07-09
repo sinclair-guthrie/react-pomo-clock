@@ -1,38 +1,83 @@
-.App {
+#root {
+  background-color: #d4e3fa;
+  font-family: 'Baloo Tamma 2', cursive;
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  min-height: 500px;
+  align-items: center;
+}
+
+#clock-area {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: solid;
+  border-width: 7px;
+  border-radius: 10px;
+  background-color: white;
+}
+
+#break-area, #session-area{
+  width: 50%;
+  display: flex;
+  margin-top: 20px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  font-size: 30px;
+}
+
+#break-label {
+  width: 100%;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+#session-label {
+  width: 100%;
+  text-align: center;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+#break-area button, #session-area button {
+  font-size: 30px;
+  width: 80px;
+  height: 80px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+#timer-area {
+  width: 100%;
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  font-size: 50px;
 }
 
-.App-link {
-  color: #61dafb;
+#timer-label {
+  width: 100%;
+  text-align: center;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+#time-left {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  border: 8px outset #1C6EA4;
+  border-radius: 15px;
+}
+
+#timer-area button {
+  height: 80px;
+  width: 120px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+#break-length, #session-length {
+  align-self: center
 }
