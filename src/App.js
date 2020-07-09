@@ -93,6 +93,7 @@ class App extends React.Component {
       currentlyRunning: false
     })
     let beep1 = document.getElementById("beep");
+    beep1.volume = 0.5;
     beep1.pause();
     beep1.currentTime = 0;
   }
