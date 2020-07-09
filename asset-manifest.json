@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-pomo-clock/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-pomo-clock/static/js/main.477a7d5f.chunk.js",
+    "main.js.map": "/react-pomo-clock/static/js/main.477a7d5f.chunk.js.map",
+    "runtime-main.js": "/react-pomo-clock/static/js/runtime-main.5b89a259.js",
+    "runtime-main.js.map": "/react-pomo-clock/static/js/runtime-main.5b89a259.js.map",
+    "static/js/2.8a2a5c20.chunk.js": "/react-pomo-clock/static/js/2.8a2a5c20.chunk.js",
+    "static/js/2.8a2a5c20.chunk.js.map": "/react-pomo-clock/static/js/2.8a2a5c20.chunk.js.map",
+    "index.html": "/react-pomo-clock/index.html",
+    "precache-manifest.67aecc74f53f95fa428a1d68fd2dd33d.js": "/react-pomo-clock/precache-manifest.67aecc74f53f95fa428a1d68fd2dd33d.js",
+    "service-worker.js": "/react-pomo-clock/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-pomo-clock/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.8a2a5c20.chunk.js.LICENSE.txt": "/react-pomo-clock/static/js/2.8a2a5c20.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-pomo-clock/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b89a259.js",
+    "static/js/2.8a2a5c20.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.477a7d5f.chunk.js"
+  ]
+}
