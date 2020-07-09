@@ -170,6 +170,7 @@ class App extends React.Component {
             Reset
           </button>
           <audio
+            controls
             id="beep"
             src={soundfile} 
             />
