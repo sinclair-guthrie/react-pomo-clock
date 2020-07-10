@@ -80,7 +80,7 @@
 
 #break-length, #session-length {
   align-self: center;
-  font-size: 45px;
+  font-size: 40px;
 }
 
 @media only screen and (max-width: 600px) {
