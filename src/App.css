@@ -81,3 +81,40 @@
 #break-length, #session-length {
   align-self: center
 }
+
+@media only screen and (max-width: 600px) {
+  #root {
+    height: auto;
+    min-height: 100vh;
+  }
+  
+  #clock-area {
+    width: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  #break-area, #session-area {
+    width: 100%;
+    font-size: 20px;
+  }
+  
+  #break-area button, #session-area button {
+    font-size: 20px;
+    width: 60px;
+    height: 60px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  #timer-area {
+    font-size: 30px;
+  }
+  
+  #timer-area button {
+    height: 60px;
+    width: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+}
