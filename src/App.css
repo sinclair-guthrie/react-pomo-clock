@@ -41,6 +41,11 @@
   text-align: center;
 }
 
+#break-length, #session-length {
+  align-self: center;
+  font-size: 40px;
+}
+
 #break-area button, #session-area button {
   font-size: 30px;
   width: 80px;
@@ -78,11 +83,6 @@
   margin-bottom: 40px;
 }
 
-#break-length, #session-length {
-  align-self: center;
-  font-size: 40px;
-}
-
 @media only screen and (max-width: 600px) {
   #root {
     height: auto;
@@ -98,6 +98,10 @@
   #break-area, #session-area {
     width: 100%;
     font-size: 20px;
+  }
+
+  #break-length, #session-length {
+    font-size: 25px;
   }
   
   #break-area button, #session-area button {
