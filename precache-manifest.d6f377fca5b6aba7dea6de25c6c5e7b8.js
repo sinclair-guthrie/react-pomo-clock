@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "83e058d5ecd905add8ca7453328f0004",
+    "revision": "d75de4c9a03a7991455aefb2fccd9d5a",
     "url": "/react-pomo-clock/index.html"
   },
   {
-    "revision": "b9e05853c114cc451e3c",
-    "url": "/react-pomo-clock/static/css/main.ad85f91a.chunk.css"
+    "revision": "0c0083c1331267dc5ec1",
+    "url": "/react-pomo-clock/static/css/main.e5f5dbd0.chunk.css"
   },
   {
     "revision": "a78bfa72682faa257c83",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-pomo-clock/static/js/2.b76f76d6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b9e05853c114cc451e3c",
+    "revision": "0c0083c1331267dc5ec1",
     "url": "/react-pomo-clock/static/js/main.b97ab297.chunk.js"
   },
   {
