@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-pomo-clock/static/css/main.262200a1.chunk.css",
-    "main.js": "/react-pomo-clock/static/js/main.2a3a7cc9.chunk.js",
-    "main.js.map": "/react-pomo-clock/static/js/main.2a3a7cc9.chunk.js.map",
+    "main.css": "/react-pomo-clock/static/css/main.714ae15d.chunk.css",
+    "main.js": "/react-pomo-clock/static/js/main.b97ab297.chunk.js",
+    "main.js.map": "/react-pomo-clock/static/js/main.b97ab297.chunk.js.map",
     "runtime-main.js": "/react-pomo-clock/static/js/runtime-main.5b89a259.js",
     "runtime-main.js.map": "/react-pomo-clock/static/js/runtime-main.5b89a259.js.map",
     "static/js/2.b76f76d6.chunk.js": "/react-pomo-clock/static/js/2.b76f76d6.chunk.js",
     "static/js/2.b76f76d6.chunk.js.map": "/react-pomo-clock/static/js/2.b76f76d6.chunk.js.map",
     "index.html": "/react-pomo-clock/index.html",
-    "precache-manifest.ab14952f6b447345a478beb31b70354f.js": "/react-pomo-clock/precache-manifest.ab14952f6b447345a478beb31b70354f.js",
+    "precache-manifest.0dc1e82e9376b645f913abb0810a2455.js": "/react-pomo-clock/precache-manifest.0dc1e82e9376b645f913abb0810a2455.js",
     "service-worker.js": "/react-pomo-clock/service-worker.js",
-    "static/css/main.262200a1.chunk.css.map": "/react-pomo-clock/static/css/main.262200a1.chunk.css.map",
+    "static/css/main.714ae15d.chunk.css.map": "/react-pomo-clock/static/css/main.714ae15d.chunk.css.map",
     "static/js/2.b76f76d6.chunk.js.LICENSE.txt": "/react-pomo-clock/static/js/2.b76f76d6.chunk.js.LICENSE.txt",
     "static/media/ring.mp3": "/react-pomo-clock/static/media/ring.fd2c5b1f.mp3"
   },
   "entrypoints": [
     "static/js/runtime-main.5b89a259.js",
     "static/js/2.b76f76d6.chunk.js",
-    "static/css/main.262200a1.chunk.css",
-    "static/js/main.2a3a7cc9.chunk.js"
+    "static/css/main.714ae15d.chunk.css",
+    "static/js/main.b97ab297.chunk.js"
   ]
 }
