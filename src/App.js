@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import soundfile from "./assets/ring.mp3";
 
-const defaultState = {
+const defaultState = { 
   breakLength: 5,
   sessionLength: 25
 }
@@ -11,11 +11,11 @@ class App extends React.Component {
   constructor (props) {
     super (props);
     this.state = {
-      breakLength: (defaultState.breakLength),
-      sessionLength: (defaultState.sessionLength),
-      timeLeft: (defaultState.sessionLength * 60),
-      sessionTimeLeft: true,
-      currentlyRunning: false
+      breakLength: (defaultState.breakLength),      // break length in minutes
+      sessionLength: (defaultState.sessionLength),  // session length in minutes
+      timeLeft: (defaultState.sessionLength * 60),  // time left for current session/break in seconds. starts with session
+      sessionTimeLeft: true,                        // boolean for whether or not there is time left in the session - flips to break when this is false
+      currentlyRunning: false                       // boolean for whether the timer is running or not
     }
     this.handleBreakButton = this.handleBreakButton.bind(this);
     this.handleSessionButton = this.handleSessionButton.bind(this);
